@@ -2,6 +2,8 @@
 
 `#DIYzenIAQ` is a DIY Carbon Dioxide (CO2) and Volatile Organic Compounds (VOC) meter, an accurate indoor air quality monitor that helps to focus on breathing.
 
+> The idea is to encourage to live in healthy environments, and as soon as possible, stop, relax and focus on breathing.
+
 [Learn more about #DIYzenIAQ](https://work.saraceni.org/airquality/?lang=en)
 
 ![#DIYzenIAQ a Do It Yourself zen Indoor Air Quality monitor](https://work.saraceni.org/airquality/img/gallery/diyzeniaq-unicorn-hat-mini-github.jpg)
@@ -23,7 +25,7 @@
 * [Pimoroni HAT Hacker HAT](https://shop.pimoroni.com/products/hat-hacker-hat)
 * [Pimoroni Unicorn HAT Mini](https://shop.pimoroni.com/products/unicorn-hat-mini)
 * [Pimoroni Breakout Garden Mini (I2C)](https://shop.pimoroni.com/products/breakout-garden-mini-i2c)
-* [Pimoroni BME680 Breakout](https://shop.pimoroni.com/products/bme680-breakout)
+* [Pimoroni BME680 Breakout](https://shop.pimoroni.com/products/bme680-breakout) / [Pimoroni BME688 4-in-1 Air Quality Breakout](https://shop.pimoroni.com/products/bme688-breakout)
 * [Pimoroni SGP30 Air Quality Sensor Breakout](https://shop.pimoroni.com/products/sgp30-air-quality-sensor-breakout)
 * [Pimoroni RV3028 Real-Time Clock](https://shop.pimoroni.com/products/rv3028-real-time-clock-rtc-breakout)
 * [3 Totem L-twisted bracket](https://totemmaker.net/product/l-twisted-bracket-20-pack/)
@@ -63,6 +65,11 @@ After **6 minutes** of sensors burn-in, it is possible to interact with the butt
 * **X**: LEDs _OFF_
 * **Y**: safe shutdown
 
-## WIP
+## FAQ (WIP)
 
 - [ ] ...
+
+### References
+
+* [Air quality, COVID-19 and sensing solutions](https://www.bosch-sensortec.com/news/how-sensing-solutions-help-to-fight-against-covid-19.html)
+* [Correct ventilation helps to prevent virus transmission](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/correct-ventilation-helps-to-reduce-the-risk-of-virus-transmission/)
