@@ -43,7 +43,7 @@
 
 ```shell
 sudo apt-get install python3-pip
-sudo pip3 install --upgrade setuptools
+sudo pip3 install setuptools
 sudo pip3 install smbus
 sudo pip3 install smbus2
 sudo pip3 install unicornhatmini
@@ -58,18 +58,17 @@ sudo pip3 install rv3028
 sudo python3 diyzeniaq.py
 ```
 
-After **6 minutes** of sensors burn-in, it is possible to interact with the buttons:
+After **6 minutes** of sensors burn-in (in a healthy environment, previously ventilated) it is possible to interact with the buttons:
 
 * **A**: LEDs _ON_ and scroll _UP_ the list of values
 * **B**: LEDs _ON_ and scroll _DOWN_ the list of values
 * **X**: LEDs _OFF_
 * **Y**: safe shutdown
 
-## FAQ (WIP)
+## References
 
-- [ ] ...
-
-### References
-
+* [Bosch Sensortec BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) / [BME688](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/) has been developed to detect exhaled human breath. It measures the concentration of Volatile Organic Compoundss (VOCs) and outputs an index of air quality (IAQ).
+* [Sensirion SGP30](https://www.sensirion.com/en/environmental-sensors/gas-sensors/sgp30/) is a gas sensor that can detect a wide range of Volatile Organic Compoundss (VOCs) and an equivalent carbon dioxide (CO2eq)
+* [Micro Crystal RV-3028](https://www.microcrystal.com/en/products/real-time-clock-rtc-modules/rv-3028-c7/) is an extreme low power and highly accurate real-time clock / calendar module.
 * [Air quality, COVID-19 and sensing solutions](https://www.bosch-sensortec.com/news/how-sensing-solutions-help-to-fight-against-covid-19.html)
 * [Correct ventilation helps to prevent virus transmission](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/correct-ventilation-helps-to-reduce-the-risk-of-virus-transmission/)
